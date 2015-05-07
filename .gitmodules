@@ -1,0 +1,6 @@
+[submodule "deps/blackbone"]
+	path = deps/blackbone
+	url = https://github.com/DarthTon/Blackbone.git
+[submodule "deps/node"]
+	path = deps/node
+	url = https://github.com/joyent/node.git
